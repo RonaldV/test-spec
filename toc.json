@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "test",
+      "uri": "docs/test.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "Swagger Petstore - OpenAPI 3.0",
+      "uri": "openapi.yaml"
+    }
+  ]
+}
