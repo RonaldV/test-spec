@@ -2,6 +2,16 @@
   "items": [
     {
       "type": "item",
+      "title": "Test-2",
+      "uri": "docs/Test-2.md"
+    },
+    {
+      "type": "item",
+      "title": "Test-3",
+      "uri": "docs/Test-3.md"
+    },
+    {
+      "type": "item",
       "title": "test",
       "uri": "docs/test.md"
     },
